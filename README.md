@@ -6,10 +6,12 @@ This resource adds all GTAV stunt jumps into your server.
 This is a clone of Vespura(TomGrobbe) resource recoded into lua
 
 Install
-Download the latest release from the releases page.
+Download the latest.
 Download into a new folder in your resources folder, you can call it whatever you like.
 Add start <name> to the server.cfg, making sure to replace <name> with the name you gave the new folder you just made.
+  
 If you want to enable blips for all the stunt jumps, edit client.lua and change jumpsSetupBlips to true and jumpsSetupShowNearBlips to false
+
 If you want to enable blips for only the nearest stunt jumps, edit client.lua and change jumpsSetupBlips to true and jumpsSetupShowNearBlips to true
 
 Example and original work
