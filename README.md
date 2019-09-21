@@ -25,3 +25,7 @@ Would love some help with how to detect when a player compleates or fails a jump
 Changelog
 v1.0.0
 Initial release.
+
+
+FiveM post
+https://forum.fivem.net/t/stunt-jumps-lua/801339?u=cityliferpg
